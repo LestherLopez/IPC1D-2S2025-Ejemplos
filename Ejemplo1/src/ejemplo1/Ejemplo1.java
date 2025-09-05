@@ -23,7 +23,7 @@ public class Ejemplo1 {
             System.out.println("1. Un saludo");
             System.out.println("2. Calcular suma de dos números");
             System.out.println("3. Salir");
-          
+            
             // Declaración de un arreglo de enteros llamado "intentos"
             // Este arreglo puede guardar 25 números enteros
             int intentos[] = new int[25];
@@ -53,7 +53,7 @@ public class Ejemplo1 {
                     // Opción 2: Pedimos dos números al usuario y mostramos su suma
                     System.out.print("Ingrese el primer número: ");
                     int numero1 = scanner.nextInt(); // Leemos el primer número
-                  
+                    
                     System.out.print("Ingrese el segundo número: ");
                     int numero2 = scanner.nextInt(); // Leemos el segundo número
                         
